@@ -409,14 +409,16 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:new_years_day_2027_alternate", source: "remote", caption: { background: { colors: ["#FF0062", "#FF783F"] }, max_lines: 1, text: "2027", text_color: "#FFFFFF", type: "static_content" } }
                 ]
             },
-                section: "🎨 Deco by LeThanh",
+            {
+                section: "🎨 Decorative by LeThanh",
                 items: [
                     { overlay_id: "caption:lethanh", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 LeThanh.exe", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:ba_khi", source: "remote", caption: { background: { colors: ["#FFE29A", "#FFD6A5", "#FFC4D6"] }, max_lines: 1, text: "😎 Bá khí dữ chưa?", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:farm_aura", source: "remote", caption: { background: { colors: ["#7248B8", "#9B59B6", "#C084FC"] }, icon: { data: "✨", type: "emoji" }, max_lines: 1, text: "Farm aura +999", text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "Dự án ma", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } }
-                ],
+                ]
+            },
             {
                 section: "🎨 Tình yêu & Cơm chó 💕",
                 items: [
