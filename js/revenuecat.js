@@ -1,16 +1,15 @@
 /***********************************
 
 > ScriptName        𝐑𝐞𝐯𝐞𝐧𝐮𝐞𝐂𝐚𝐭
-> Author            @duyvinh09
-> TgChannel         https://t.me/tienich
-> ScriptURL         https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/js/revenuecat.js
+> Author            @LeThanh05
+> ScriptURL         https://raw.githubusercontent.com/Lethanh05/Module_test_LeThanh05/refs/heads/main/js/revenuecat.js
 
 
 [rewrite_local]
 
-# ～ RevenueCat@duyvinh09
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-response-body https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/js/revenuecat.js
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers) url script-request-header https://raw.githubusercontent.com/duyvinh09/Module_IOS/refs/heads/main/js/deleteHeader.js
+# ～ RevenueCat@LeThanh05
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-response-body https://raw.githubusercontent.com/Lethanh05/Module_test_LeThanh05/refs/heads/main/js/revenuecat.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts|subscribers) url script-request-header https://raw.githubusercontent.com/Lethanh05/Module_test_LeThanh05/refs/heads/main/js/deleteHeader.js
 
 [mitm]
 
@@ -197,7 +196,6 @@ const mapping = {
 };
 
 // =========    Phần cố định  ========= //
-// =========  @duyvinh09 ========= //
 var _0xodF = "jsjiami.com.v7";
 function _0x52ea(_0x3ea8b3, _0x5559a4) {
   var _0x3b9dd1 = _0x3b9d();
