@@ -56,7 +56,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Mod by LeThanh05 ❤️",
                     body: "Muốn kb locket với tui thì copy link này hoặc quét mã QR: https://locket.cam/q.thanh05",
-                    imageURL: "https://github.com/Lethanh05/Module_test_LeThanh05/blob/main/img/QR_acc.jpg"
+                    imageURL: "https://ibb.co/84G8PRkr"
                 }
             ],
             primary_button_title: "Xong",
@@ -409,16 +409,14 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:new_years_day_2027_alternate", source: "remote", caption: { background: { colors: ["#FF0062", "#FF783F"] }, max_lines: 1, text: "2027", text_color: "#FFFFFF", type: "static_content" } }
                 ]
             },
-            {
-                section: "🎨 Decorative by Duy Vinh",
+                section: "🎨 Deco by LeThanh",
                 items: [
-                    { overlay_id: "caption:duyvinh09", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 duyvinh09", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
-                    { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
-                    { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
-                    { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "dự án ma", text_color: "#FFFFFFE6", type: "static_content" } }
-                ]
-            },
+                    { overlay_id: "caption:lethanh", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 LeThanh.exe", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:ba_khi", source: "remote", caption: { background: { colors: ["#FFE29A", "#FFD6A5", "#FFC4D6"] }, max_lines: 1, text: "😎 Bá khí dữ chưa?", text_color: "#633B24", type: "static_content" } },
+                    { overlay_id: "caption:farm_aura", source: "remote", caption: { background: { colors: ["#7248B8", "#9B59B6", "#C084FC"] }, icon: { data: "✨", type: "emoji" }, max_lines: 1, text: "Farm aura +999", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "Dự án ma", text_color: "#FFFFFFE6", type: "static_content" } },
+                    { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } }
+                ],
             {
                 section: "🎨 Tình yêu & Cơm chó 💕",
                 items: [
