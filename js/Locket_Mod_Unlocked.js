@@ -410,7 +410,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Deco by LeThanh",
+                section: "🎨 Decorative by LeThanh",
                 items: [
                     { overlay_id: "caption:lethanh", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 LeThanh.exe", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:ba_khi", source: "remote", caption: { background: { colors: ["#FFE29A", "#FFD6A5", "#FFC4D6"] }, max_lines: 1, text: "😎 Bá khí dữ chưa?", text_color: "#633B24", type: "static_content" } },
