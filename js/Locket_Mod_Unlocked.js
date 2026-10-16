@@ -48,7 +48,7 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD🔥",
+            tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
             title: "HeHe Lên Locket Gold rồi đó, Cảm ơn tui đi 😊",
@@ -410,13 +410,13 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by LeThanh",
+                section: "🎨 Decorative by Duy Vinh",
                 items: [
-                    { overlay_id: "caption:lethanh", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 LeThanh.exe", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:ba_khi", source: "remote", caption: { background: { colors: ["#FFE29A", "#FFD6A5", "#FFC4D6"] }, max_lines: 1, text: "😎 Bá khí dữ chưa?", text_color: "#633B24", type: "static_content" } },
-                    { overlay_id: "caption:farm_aura", source: "remote", caption: { background: { colors: ["#7248B8", "#9B59B6", "#C084FC"] }, icon: { data: "✨", type: "emoji" }, max_lines: 1, text: "Farm aura +999", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "Dự án ma", text_color: "#FFFFFFE6", type: "static_content" } },
-                    { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } }
+                    { overlay_id: "caption:duyvinh09", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 duyvinh09", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Cu 🐎", text_color: "#633B24", type: "static_content" } },
+                    { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
+                    { overlay_id: "caption:snake_vibes", source: "remote", caption: { background: { colors: ["#2E7D32", "#66BB6A"] }, icon: { data: "🐍", type: "emoji" }, max_lines: 1, text: "Snake Vibes", localized_text: { en: "Snake Vibes", vn: "Chất rắn" }, text_color: "#FFFFFFE6", type: "static_content" } },
+                    { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "dự án ma", text_color: "#FFFFFFE6", type: "static_content" } }
                 ]
             },
             {
