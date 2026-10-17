@@ -288,8 +288,8 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
-            // url: "https://i.ibb.co/1Yt1Dzzy/Shin-chan-1.png",
-            url: "https://i.ibb.co/RTm5P1n9/kitty-1.png",
+            url: "https://i.ibb.co/1Yt1Dzzy/Shin-chan-1.png",
+            // url: "https://i.ibb.co/RTm5P1n9/kitty-1.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
@@ -413,9 +413,10 @@ if (ua.includes("Locket")) {
                 section: "🎨 Decorative by LeThanh",
                 items: [
                     { overlay_id: "caption:lethanh", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 LeThanh.exe", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:ba_khi", source: "remote", caption: { background: { colors: ["#FFE29A", "#FFD6A5", "#FFC4D6"] }, max_lines: 1, text: "😎 Bá khí dữ chưa?", text_color: "#633B24", type: "static_content" } },
+                    { overlay_id: "caption:ba_khi_du_chua", source: "remote", caption: { background: { colors: ["#FFE29A", "#FFD6A5", "#FFC4D6"] }, max_lines: 1, text: "😎 Bá khí dữ chưa?", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:farm_aura", source: "remote", caption: { background: { colors: ["#7248B8", "#9B59B6", "#C084FC"] }, icon: { data: "✨", type: "emoji" }, max_lines: 1, text: "Farm aura +999", text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "Dự án ma", text_color: "#FFFFFFE6", type: "static_content" } },
+                    { overlay_id: "caption:A_lam_Gia_lai", source: "remote", caption: { background: { colors: ["#5bec21", "#28e7a7"] }, icon: { data: "👉🏻", type: "emoji" }, max_lines: 1, text: "Con Ông Lộc", text_color: "#f11616e6", type: "static_content" } },v
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } }
                 ]
             },
