@@ -416,7 +416,7 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:ba_khi_du_chua", source: "remote", caption: { background: { colors: ["#FFE29A", "#FFD6A5", "#FFC4D6"] }, max_lines: 1, text: "😎 Bá khí dữ chưa?", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:farm_aura", source: "remote", caption: { background: { colors: ["#7248B8", "#9B59B6", "#C084FC"] }, icon: { data: "✨", type: "emoji" }, max_lines: 1, text: "Farm aura +999", text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "Dự án ma", text_color: "#FFFFFFE6", type: "static_content" } },
-                    { overlay_id: "caption:A_lam_Gia_lai", source: "remote", caption: { background: { colors: ["#5bec21", "#28e7a7"] }, icon: { data: "👉🏻", type: "emoji" }, max_lines: 1, text: "Con Ông Lộc", text_color: "#f11616e6", type: "static_content" } },v
+                    { overlay_id: "caption:A_lam_Gia_lai", source: "remote", caption: { background: { colors: ["#5bec21", "#28e7a7"] }, icon: { data: "👉🏻", type: "emoji" }, max_lines: 1, text: "Con Ông Lộc", text_color: "#f11616e6", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } }
                 ]
             },
