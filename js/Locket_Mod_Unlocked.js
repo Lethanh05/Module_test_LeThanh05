@@ -55,11 +55,12 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "Mod by LeThanh05 ❤️",
-                    body: "Quét QR hoặc nhấp vào link bên dưới để kết bạn Locket với tui nhé!\n[Locket LeThanh05](https://locket.cam/q.thanh05)",
+                    body: "Quét QR hoặc nhấp vào link bên dưới để kết bạn Locket với tui nhé!\nhttps://locket.cam/q.thanh05",
                     imageURL: "https://i.ibb.co/VpbBMh6g/QR-acc.jpg"
                 }
             ],
             primary_button_title: "Xong",
+            primary_button_url: "https://locket.cam/q.thanh05",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
