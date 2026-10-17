@@ -56,7 +56,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Mod by LeThanh05 ❤️",
                     body: "Muốn kb locket với tui thì copy link này hoặc quét mã QR: https://locket.cam/q.thanh05",
-                    imageURL: "https://ibb.co/84G8PRkr"
+                    imageURL: "https://i.ibb.co/VpbBMh6g/QR-acc.jpg"
                 }
             ],
             primary_button_title: "Xong",
