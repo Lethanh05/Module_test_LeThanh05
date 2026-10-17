@@ -55,7 +55,7 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "Mod by LeThanh05 ❤️",
-                    body: "Hehe, lên Gold rồi đó! Cảm ơn tui đi 😆\nQuét QR hoặc nhấp vào link bên dưới để kết bạn Locket với tui nhé!\n[Locket LeThanh05](https://locket.cam/q.thanh05)",
+                    body: "Quét QR hoặc nhấp vào link bên dưới để kết bạn Locket với tui nhé!\n[Locket LeThanh05](https://locket.cam/q.thanh05)",
                     imageURL: "https://i.ibb.co/VpbBMh6g/QR-acc.jpg"
                 }
             ],
